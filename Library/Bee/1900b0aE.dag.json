@@ -343,7 +343,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -2388,7 +2388,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 49661,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -3068,7 +3068,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 94250,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3759,7 +3759,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 150023,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -4356,7 +4356,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 191983,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -4906,7 +4906,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 231495,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -5467,7 +5467,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 273798,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -6269,7 +6269,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 342789,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -6815,7 +6815,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 383907,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -7356,7 +7356,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 424121,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -7899,7 +7899,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 465196,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -8431,7 +8431,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 505030,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -9003,7 +9003,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 547860,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -9589,7 +9589,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 591770,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -10125,7 +10125,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 631602,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -11066,7 +11066,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 723276,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -11613,7 +11613,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 764294,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -12164,7 +12164,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 803665,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -12787,7 +12787,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 847002,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -13385,7 +13385,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 890717,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -14207,7 +14207,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 954272,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -15227,7 +15227,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1050533,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -16146,7 +16146,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1137713,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -16891,7 +16891,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1197717,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -17443,7 +17443,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1239004,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -18037,7 +18037,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1280283,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -18653,7 +18653,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1328357,
       "PayloadLength": 41,
-      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide o",
+      "PayloadDebugContentSnippet": "D:\\LADAT\\PROJECTOS\\humanoide-o",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -20031,7 +20031,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"D:/LADAT/PROJECTOS/2022.3.10f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/LADAT/PROJECTOS/2022.3.10f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide objeto vacio\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide objeto vacio\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide objeto vacio\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide objeto vacio\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide objeto vacio\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide objeto vacio\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide objeto vacio\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide objeto vacio\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide objeto vacio\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide objeto vacio\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"D:\\LADAT\\PROJECTOS\\2022.3.10f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"D:\\LADAT\\PROJECTOS\\2022.3.10f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"D:\\LADAT\\PROJECTOS\\2022.3.10f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"D:\\LADAT\\PROJECTOS\\2022.3.10f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"D:\\LADAT\\PROJECTOS\\2022.3.10f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"D:\\LADAT\\PROJECTOS\\humanoide objeto vacio\\Library\\ScriptAssemblies\" -s=\"D:\\LADAT\\PROJECTOS\\humanoide objeto vacio\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"D:\\LADAT\\PROJECTOS\\humanoide objeto vacio\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"D:\\LADAT\\PROJECTOS\\humanoide objeto vacio\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"D:/LADAT/PROJECTOS/2022.3.10f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/LADAT/PROJECTOS/2022.3.10f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide-objeto-vacio\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide-objeto-vacio\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide-objeto-vacio\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide-objeto-vacio\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide-objeto-vacio\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide-objeto-vacio\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide-objeto-vacio\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide-objeto-vacio\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide-objeto-vacio\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"D:\\LADAT\\PROJECTOS\\humanoide-objeto-vacio\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"D:\\LADAT\\PROJECTOS\\2022.3.10f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"D:\\LADAT\\PROJECTOS\\2022.3.10f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"D:\\LADAT\\PROJECTOS\\2022.3.10f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"D:\\LADAT\\PROJECTOS\\2022.3.10f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"D:\\LADAT\\PROJECTOS\\2022.3.10f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"D:\\LADAT\\PROJECTOS\\humanoide-objeto-vacio\\Library\\ScriptAssemblies\" -s=\"D:\\LADAT\\PROJECTOS\\humanoide-objeto-vacio\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"D:\\LADAT\\PROJECTOS\\humanoide-objeto-vacio\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"D:\\LADAT\\PROJECTOS\\humanoide-objeto-vacio\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "D:/LADAT/PROJECTOS/2022.3.10f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "D:/LADAT/PROJECTOS/2022.3.10f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -20315,6 +20315,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aE.dag.json",
-  "PayloadsFile": "D:/LADAT/PROJECTOS/humanoide objeto vacio/Library/Bee/1900b0aE.dag.payloads",
+  "PayloadsFile": "D:/LADAT/PROJECTOS/humanoide-objeto-vacio/Library/Bee/1900b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }
