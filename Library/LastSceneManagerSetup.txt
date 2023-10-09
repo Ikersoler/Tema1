@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/primera_entrega.unity
+- path: Assets/Scenes/Tema_2.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

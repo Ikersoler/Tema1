@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\scripts\Animal.cs" />
+    <Compile Include="Assets\scripts\Operations.cs" />
     <Compile Include="Assets\scripts\MyFirstScript.cs" />
   </ItemGroup>
   <ItemGroup>
