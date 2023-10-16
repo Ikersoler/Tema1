@@ -67,6 +67,7 @@ public class entregable2 : MonoBehaviour
         }
         //los resultasos son 1 es impar y dos 2 es par
 
+        Debug.Log(message: $"my name is {name}");
 
     }
 
